@@ -28,7 +28,7 @@
     "bluebird": "3.7.2",
     "express": "4.17.1",
     "pg-monitor": "1.4.0",
-    "pg-promise": "10.5.0"
+    "pg-promise": "11.5.5"
   },
   "devDependencies": {
     "@types/bluebird": "3.5.30",
